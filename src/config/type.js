@@ -1,6 +1,6 @@
 const status = "AUTOMATIC";
-const botName = "💮 Distube Bot [ Free Tier ] ";
-const text = "GlaceYT";
+const botName = "Yuki 💮";
+const text = "Designed by Sharon & developed by Anthony";
 const version = "Latest@ v1.0";
 const startTime = Date.now();
 
@@ -20,7 +20,7 @@ ${outerBoxColor}╭────────────────────�
 │  │  Status: ${status}                  
 │  │  Version: ${version}                
 │  │  Uptime: ${uptimeInSeconds}s        
-│  │  Powered by ${text}                 
+│  │  ${text}                 
 │  ╰──────────────────────────────────────╯  
 │${outerBoxColor}                                            
 ╰────────────────────────────────────────────╯${resetColor}
